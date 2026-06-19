@@ -2,6 +2,26 @@
 
 This is your newly scaffolded Backstage App, Good Luck!
 
+## Table of Contents
+
+- [Local Development](#local-development)
+- [Docker](#docker)
+  - [Development Mode](#development-mode)
+  - [Production Mode](#production-mode)
+  - [Database](#database)
+  - [Environment Variables](#environment-variables)
+- [Plugin Development Guide](#plugin-development-guide)
+  - [1. Creating a Frontend Plugin](#1-creating-a-frontend-plugin)
+  - [2. Creating a Backend Plugin](#2-creating-a-backend-plugin)
+  - [3. Creating a Full-Stack Plugin (Front + Back)](#3-creating-a-full-stack-plugin-front--back)
+  - [4. Shared Code Between Frontend and Backend](#4-shared-code-between-frontend-and-backend)
+  - [5. Frontend Plugin Architecture Best Practices](#5-frontend-plugin-architecture-best-practices)
+  - [6. Backend Plugin Architecture Best Practices](#6-backend-plugin-architecture-best-practices)
+  - [7. Avoiding Library Version Conflicts](#7-avoiding-library-version-conflicts)
+  - [8. Integrating Community Plugins Safely](#8-integrating-community-plugins-safely)
+  - [9. Creating and Deploying a Backstage Operator](#9-creating-and-deploying-a-backstage-operator)
+  - [10. OpenShift Deployment](#10-openshift-deployment)
+
 ## Local Development
 
 To start the app locally, run:
